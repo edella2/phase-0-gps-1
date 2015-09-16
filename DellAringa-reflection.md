@@ -16,4 +16,4 @@ Fetching and merging and their differences from just doing `git pull origin`.
 
 ### How was your first experience of pairing in a GPS?
 
-Great, Katy was a fantastic guide!
+Great, Katy was a fantastic guide! Test for conflict merge
